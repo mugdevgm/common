@@ -1,4 +1,5 @@
 {
+    "name": "muddev/common",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "stable",
