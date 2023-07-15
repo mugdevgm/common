@@ -1,8 +1,8 @@
 {
     "name": "muddev/common",
-    "type": "symfony-bundle",
+    "type": "library",
     "description": "Common lib",
-    "license": "proprietary",
+    "license": "MIT",
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
