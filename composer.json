@@ -1,6 +1,7 @@
 {
     "name": "muddev/common",
-    "type": "project",
+    "type": "symfony-bundle",
+    "description": "Common lib",
     "license": "proprietary",
     "minimum-stability": "stable",
     "prefer-stable": true,
